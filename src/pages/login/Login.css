@@ -1,0 +1,26 @@
+.login-background {
+  background: url('../../assets/bg.jpg');
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  font-family:'Times New Roman', Times, serif, Courier, monospace;
+}
+
+.form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 60px;
+  padding: 20px;
+  width: 60%;
+  height: 80%;
+  color: rgba(255, 255, 255, 0.908);
+}
+
+.form {
+  background-color: rgba(148, 29, 196, 0.47);
+  border-radius: 30px;
+  font-size: 17px;
+}
